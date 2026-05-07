@@ -1,7 +1,13 @@
-# M2S2 Engineering Group
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m2s2/.github/main/assets/m2s2-logo.png" alt="M2S2 Logo" width="220"/>
+</p>
 
-**Engineering Momentum**  
-*Build what moves you forward.*
+<h1 align="center">M2S2 Engineering Group</h1>
+
+<p align="center">
+  <strong>Engineering Momentum</strong><br/>
+  <em>Build what moves you forward.</em>
+</p>
 
 ---
 
@@ -15,20 +21,18 @@ We design and build systems that are meant to evolve. The goal isn’t just to s
 
 ## What You’ll Find Here
 
-This organization contains the tooling and systems developed while building real applications, including:
+This organization contains tooling and systems developed while building real applications:
 
 - Reusable frontend components and design systems  
 - Backend services and APIs  
 - Cloud-native and serverless infrastructure  
 - Internal tooling built to support production systems  
 
-These projects are driven by real-world use, not isolated examples.
+These projects are driven by real-world use—not isolated examples.
 
 ---
 
 ## How We Think
-
-We focus on a few core principles:
 
 - **Momentum over motion**  
   Progress should compound, not create friction  
@@ -54,13 +58,13 @@ We focus on a few core principles:
 
 ## Learn More
 
-🌐 https://m2s2.io  
-✍️ https://blog.m2s2.io  
+<p>
+  🌐 <a href="https://m2s2.io">m2s2.io</a><br/>
+  ✍️ <a href="https://blog.m2s2.io">blog.m2s2.io</a>
+</p>
 
 ---
 
 ## About
-
-M2S2 Engineering Group is built around a simple idea:
 
 > Systems should help you move faster over time—not slow you down.
