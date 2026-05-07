@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/m2s2/.github/main/assets/m2s2-logo.png" alt="M2S2 Logo" width="220"/>
+  <img src="https://raw.githubusercontent.com/M2S2-Engineering-Group/.github/main/assets/m2s2-logo.png" alt="M2S2 Logo" width="220"/>
 </p>
 
 <h1 align="center">M2S2 Engineering Group</h1>
