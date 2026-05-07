@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/M2S2-Engineering-Group/.github/main/assets/m2s2-logo.png" alt="M2S2 Logo" width="220"/>
 </p>
 
-<h1 align="center">M2S2 Engineering Group</h1>
+<h1 align="center">M²S² Engineering Group</h1>
 
 <p align="center">
   <strong>Engineering Momentum</strong><br/>
@@ -13,7 +13,7 @@
 
 ## What We Do
 
-M2S2 Engineering Group focuses on helping teams move from idea to production—quickly, efficiently, and without unnecessary complexity.
+M²S² Engineering Group focuses on helping teams move from idea to production—quickly, efficiently, and without unnecessary complexity.
 
 We design and build systems that are meant to evolve. The goal isn’t just to ship—it’s to create momentum through strong engineering decisions, clear structure, and practical execution.
 
